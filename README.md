@@ -33,7 +33,7 @@ main()
 
 ## Academic Context & Author
 
-These optimization models were developed as part of the coursework at the **National and Kapodistrian University of Athens (NKUA)**.
+These python scripts were developed as part of the coursework at the **National and Kapodistrian University of Athens (NKUA)**.
 
 * **Author:** Agapi Kallinikou
 * **Academic Year:** 2022 - 2023
