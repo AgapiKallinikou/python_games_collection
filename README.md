@@ -27,3 +27,13 @@ To start the program, simply run the function below and follow the on-screen ins
 
 ```python
 main()
+```
+
+---
+
+## Academic Context & Author
+
+These optimization models were developed as part of the coursework at the **National and Kapodistrian University of Athens (NKUA)**.
+
+* **Author:** Agapi Kallinikou
+* **Academic Year:** 2022 - 2023
